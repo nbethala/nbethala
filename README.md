@@ -37,11 +37,11 @@ To anyone reading this who’s taken a career break — don’t let it be a brea
 Kubernetes Certification (CKA Preparation) I’m deep into Certified Kubernetes Administrator (CKA) prep — mastering cluster architecture, RBAC, networking, and troubleshooting. My goal? To become the Kube Whisperer — someone who can tame any cluster and bring clarity to chaos.
 
 
-## - 📫 How to reach me: 
+##  📫 How to reach me: please send a friend request
   https://www.linkedin.com/in/Nbethala/
 
 
-## - ⚡ Fun fact: 
+##  ⚡ Fun fact: 
 I’ve lived on three continents, slept less than 4+ hours a night, worked across multiple time zones — and still prefer my terminal prompt clean and minimal. 
 
-I’m a lover of coffees from around the world — ask me about flavor profiles, brewing rituals, or how to make a cup that pairs perfectly with a late-night debugging session.
+I’m a lover of coffees from around the world — ask me about flavor profiles, brewing rituals, or how to make a cup that pairs perfectly with a late-night debugging session (between 12 - 2 am is the magic hour!). 
