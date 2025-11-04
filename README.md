@@ -2,12 +2,12 @@
 
 ## ... Never Stop Learning ! 
 
-<img src="https://github.com/user-attachments/assets/82a655e4-acb6-413f-8066-a9fa877a7f11" alt="mapimage" width="600" height="400"/>
+![c-Kavita-Favelle-Confucius-Portugal](https://github.com/user-attachments/assets/a879604a-bc04-489a-82cb-206978881805)
 
 ---
 ## 👩‍💻 About Me
 
-I'm Nancy Bethala, born in Hyderabad, Telangana — widely known as India's tech city.
+I'm Nancy Bethala, born in Hyderabad, Telangana — widely known as India's tech city. 
 
 Where I learned my A-B-C: I hold a graduate degree in Molecular Biology from India and a postgraduate degree in Computer Science from London, United Kingdom.
 
