@@ -31,7 +31,7 @@ After a planned career break to care for an ill child, I’m actively re-engagin
 To anyone reading this who’s taken a career break — don’t let it be a breaker of your career. You’ve done it once. You’ll do it again. And this time, you’ll do it with clarity, resilience, and purpose!
 
 ## 💼 What I Bring to the Table
- 14+ years in enterprise SaaS and PaaS environments - A senior Engineer from day 1. 
+ 14+ years in enterprise SaaS and PaaS environments - curious and an avid self-learner! 
 
 ## 🚀 Current Technical Focus
 Kubernetes Certification (CKA Preparation) I’m deep into Certified Kubernetes Administrator (CKA) prep — mastering cluster architecture, RBAC, networking, and troubleshooting. My goal? To become the Kube Whisperer — someone who can tame any cluster and bring clarity to chaos.
