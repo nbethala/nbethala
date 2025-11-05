@@ -6,11 +6,8 @@
 
 ---
 ## 👩‍💻 About Me
-- I'm Nancy Bethala:
-    - Born in Hyderabad, India
-    - Educated in London, UK
-    - Based in the United States
-
+🌍 I'm Nancy Bethala — a global tech explorer who's lived on three continents (Asia, Europe, North America).
+   
 ## 🧰 Languages & Tools
 The market currently offers thousands of tools — listing tools alone don’t solve your problems!
 I bring hands-on expertise in cloud-native infrastructure, data engineering, system architecture, and emerging AI/ML workflows to drive impact—always learning, always evolving! 
