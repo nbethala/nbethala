@@ -6,8 +6,10 @@
 
 ---
 ## 👩‍💻 About Me
-- I'm Nancy Bethala, born in Hyderabad, India, and now living in USA. 
-- I'm currently mastering everything related to Cloud/DevOps.
+- I'm Nancy Bethala:
+    - Born in Hyderabad, India
+    - Educated in London, UK
+    - Based in the United States
 
 ## 🧰 Languages & Tools
 The market currently offers thousands of tools — listing tools alone don’t solve your problems!
@@ -19,8 +21,8 @@ After a planned career break to care for an ill child, I’m actively re-engagin
 To anyone reading this who’s taken a career break — don’t let it be a breaker of your career. You’ve done it once. You’ll do it again. And this time, you’ll do it with clarity, resilience, and purpose!
 
 ## 🚀 Current Technical Focus
-Kubernetes Certification (CKA Preparation) I’m deep into Certified Kubernetes Administrator (CKA) prep — mastering cluster architecture, RBAC, networking, and troubleshooting. My goal? To become the Kube Whisperer — someone who can tame any cluster and bring clarity to chaos.
-
+- Kubernetes Certification (CKA Preparation) 
+- Application Modernization & AI/ML Integration
 
 ##  ⚡ Fun fact: 
 I’ve lived on three continents, slept less than 4+ hours a night, worked across multiple time zones — and still prefer my terminal prompt clean and minimal. 
