@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-## ... Never Stop Learning ! 
-
-<img src="https://github.com/user-attachments/assets/a879604a-bc04-489a-82cb-206978881805" alt="c-Kavita-Favelle-Confucius-Portugal" width="500" height="200" />
-
----
 ## 👩‍💻 About Me
 🌍 I'm Nancy Bethala — a global tech explorer who's lived on three continents (Asia, Europe, North America).
    
