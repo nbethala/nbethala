@@ -9,7 +9,7 @@ I bring hands-on expertise in cloud-native infrastructure, system architecture, 
 
 ### 🚀 Current Technical Focus
 - Kubernetes Certification (CKA Preparation) 
-- Application Modernization & AI/ML Integration
+- Application Modernization & AI/MLOps Integration
 
 ###  ⚡ Fun fact: 
 I’ve lived on three continents, slept less than 4+ hours a night, worked across multiple time zones — and still prefer my terminal prompt clean and minimal. 
