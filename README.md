@@ -5,7 +5,7 @@
    
 ### 🧰 Languages & Tools
 The market currently offers thousands of tools — listing tools alone don’t solve your problems!
-I bring hands-on expertise in cloud-native infrastructure, system architecture, and emerging AI/ML workflows to drive impact—always learning, always evolving! 
+I bring hands-on expertise in cloud-native infrastructure, DevOps, system architecture, and emerging AI/MLOps workflows to drive impact—always learning, always evolving! 
 
 ### 🚀 Current Technical Focus
 - Kubernetes Certification (CKA Preparation) 
