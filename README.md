@@ -17,7 +17,7 @@ I bring hands-on expertise in:
 ---
 
 ### 🚀 Current Technical Focus
-- **Kubernetes**
+- **Kubernetes Ecosystems**
 - **ML/Ops Pipelines**
 - **Application Modernization** & **AI/MLOps Integration**
 
