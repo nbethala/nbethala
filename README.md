@@ -1,34 +1,23 @@
-### 👩‍💻 About Me
-🌍 I'm Nancy Bethala — a global tech explorer who's lived on three continents (Asia, Europe, North America).
+## About
 
-I work hands‑on with **cloud‑native infrastructure, DevOps, and AI/MLOps workflows** — building resilient, reproducible platforms.
+Infrastructure and systems engineer focused on distributed ML platforms.
 
----
-
-### 🧰 Languages & Tools
-I bring hands-on expertise in:
-
-- **Cloud & Infra:** AWS, Kubernetes, Terraform, Helm  
-- **Observability:** Prometheus, Grafana, centralized logging
-- **Service Mesh & Networking:** Istio, multi-cloud orchestration  
-- **CI/CD & Automation:** GitHub Actions, reproducible Terraform workflows  
-- **AI/ML Infrastructure:** GPU acceleration, Triton Inference Server, ML Ops pipelines for scalable model deployment  
+I work on systems integration - how networking, compute, memory, and 
+orchestration interact under real workloads. My approach: build hands-on, 
+measure what breaks, document the solutions.
 
 ---
 
-### 🚀 Current Technical Focus
-- **Kubernetes Ecosystems**
-- **AI Infrastructure**
-- **ML/Ops Pipelines**
-- **Application Modernization** & **AI/MLOps Integration**
+Current focus: GPU inference optimization, multi-model serving, and 
+cost-effective LLM architectures on Kubernetes.
 
----
+Background: Fortune 500 experience with production platforms 
+and observable ML systems.
 
-### 📂 Featured Work
-👉 See my org: [scalable-ml-systems](https://github.com/scalable-ml-systems) for **production-ready ML infra projects**.  
-👉 My personal profile hosts exploratory repos and broader portfolio: [nbethala](https://github.com/nbethala).
+I share everything I build - the working patterns and the failures - 
+to help others operating similar infrastructure.
 
----
+📖 [StackBytes](https://stackbytes.beehiiv.com) |
+💻 [GitHub](https://github.com/scalable-ml-systems) | 
+📧 nfrounjian@gmail.com
 
-### ⚡ Fun Fact
-I’ve lived on three continents, slept less than 4 hours a night, worked across multiple time zones — and still prefer my terminal prompt clean and minimal.
