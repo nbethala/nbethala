@@ -1,23 +1,17 @@
-## About
+# Nancy Bethala-Frounjian
 
-Infrastructure and systems engineer focused on distributed ML platforms.
+AI Infrastructure Engineer. Building GPU inference systems.
 
-I work on systems integration - how networking, compute, memory, and 
-orchestration interact under real workloads. My approach: build hands-on, 
-measure what breaks, document the solutions.
+**vLLM contributions:**
+- [PR #34978](link) — Speculative decoding fix for DeepSeek-R1
 
----
+**Current work:**
+- LLM inference platforms (vLLM, Triton, multi-model routing)
+- Event-driven agentic systems (Ray, Kafka, supervisor agent pattern)
+- GPU-accelerated Kubernetes deployments
 
-Current focus: GPU inference optimization, multi-model serving, and 
-cost-effective LLM architectures on Kubernetes.
+**Production infrastructure:** [@scalable-ml-systems](https://github.com/scalable-ml-systems)
 
-Background: Fortune 500 experience with production platforms 
-and observable ML systems.
+📖 [StackBytes](https://stackbytes.beehiiv.com) | 📧 nfrounjian@gmail.com
 
-I share everything I build - the working patterns and the failures - 
-to help others operating similar infrastructure.
-
-📖 [StackBytes](https://stackbytes.beehiiv.com) |
-💻 [GitHub](https://github.com/scalable-ml-systems) | 
-📧 nfrounjian@gmail.com
 
