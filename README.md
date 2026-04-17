@@ -3,7 +3,7 @@
 AI Infrastructure Engineer. Building GPU inference systems.
 
 **vLLM contributions:**
-- [PR #34978](link) — Speculative decoding fix for DeepSeek-R1
+- [PR #34978](https://github.com/vllm-project/vllm/pull/34978) — Speculative decoding fix for DeepSeek-R1
 
 **Current work:**
 - LLM inference platforms (vLLM, Triton, multi-model routing)
