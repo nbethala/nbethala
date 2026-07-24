@@ -23,7 +23,7 @@ Primary active builds are maintained at **[@scalable-ml-systems](https://github.
 
 | Repository | System Layer | Architecture Focus | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **[`biomedical-ai-infra-lab`](https://github.com/scalable-ml-systems/biomedical-ai-infra-lab)** | Domain & Runtime | Palantir-style ontology Graph RAG for medical reasoning, long-context window management, and schema-constrained execution. | Neo4j, vLLM, Triton, Python, Ray |
+| **[`biomedical-ai-infra-lab`](https://github.com/scalable-ml-systems/biomedical-ai-infra-lab)** | Domain & Runtime | Graph RAG for medical reasoning, long-context window management, and schema-constrained execution. | Neo4j, vLLM, Triton, Python, Ray |
 | **[`amd-rocm-platform-engineering`](https://github.com/scalable-ml-systems/amd-rocm-platform-engineering)** | Silicon & Hardware | Cross-vendor GPU performance profiling, ROCm/HIP kernel optimization, memory bandwidth triage, and multi-GPU benchmarking. | ROCm, HIP, CUDA, C++, PyTorch, Docker |
 
 ---
