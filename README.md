@@ -1,8 +1,9 @@
 # Nancy Bethala-Frounjian
 
-### AI Systems Engineer | Multi-Vendor Systems (CUDA & ROCm)
+### Senior AI Infrastructure Engineer | GPU & Inference Systems
 
-Building end-to-end AI infrastructure—from GPU memory execution and multi-vendor accelerator profiling up to ontology-driven knowledge graphs and high-concurrency serving runtimes.
+Hi, I’m Nancy. I build and debug AI systems from the infrastructure up - from CUDA and GPU environments to inference runtimes and agentic workflows. I like getting underneath the abstractions to understand what is actually happening, where a system is failing, and why. Most of my projects begin as experiments: I build, break, test, and turn what I learn into repeatable workflows.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nbethala/)
 [![StackBytes](https://img.shields.io/badge/StackBytes-FF6C37?style=flat-square&logo=beehiiv&logoColor=white)](https://stackbytes.beehiiv.com/)
@@ -13,7 +14,7 @@ Building end-to-end AI infrastructure—from GPU memory execution and multi-vend
 
 ## ⚡ Open-Source Contributions
 
-* **[vLLM](https://github.com/vllm-project/vllm)** — **[PR #34978](https://github.com/vllm-project/vllm/pull/34978)**: Resolved speculative decoding and structured output state-machine desynchronization for DeepSeek-R1 under heavy request concurrency.
+* **[vLLM](https://github.com/vllm-project/vllm)** — **[PR #34978](https://github.com/vllm-project/vllm/pull/34978)**: Investigated a DeepSeek-R1 reasoning-boundary failure involving speculative decoding and structured output, then submitted scheduler/parser changes and validation for the failure path.
 
 ---
 
